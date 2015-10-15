@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WoSao</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- step_4 -->
+    <!--<string name="facebook_app_id">435595763316031</string>-->
+    <string name="facebook_app_id">1640967989507233</string>
+</resources>
